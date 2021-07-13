@@ -17,4 +17,4 @@ This repository contains files for the Intel OpenVINO Workshop on July 12-13.
 - Lab8: Multiple Models in One Application - [Run Security Barrier Demo Application](https://github.com/intel-iot-devkit/smart-video-workshop/blob/master/Labs/Run_Security_Barrier_Demo.md) 
 
 **DL Workbench**
-- Training Slides
+- [Training Slides](./presentations/DL%20Workbench.pdf)
